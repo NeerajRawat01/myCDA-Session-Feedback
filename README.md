@@ -1,5 +1,19 @@
 # myCDA -- Session Feedback Assignment
 
+## Demo
+
+Watch the application demo below.
+
+
+
+https://github.com/user-attachments/assets/d94c788a-c3b6-4f56-ba78-911fa46316ed
+
+
+
+
+
+
+
 ## What is this?
 
 A starter repo for the myCDA platform. Your task is to build the **Session Feedback** feature. Read `ASSIGNMENT_SPEC.md` for full requirements and `TEST_ACCOUNTS.md` for test credentials.
